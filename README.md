@@ -4,6 +4,7 @@
 
 ![Darlan Martins GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlan0307&show_icons=true&theme=onedark)
 
+
 ## Tecnologias que ja estudei e outras que estou estudando
 
 <div style="display: inline-block"><br/>
@@ -14,3 +15,5 @@
  <img alt="Java" align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
  <img alt="MySQL" align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
+
+### Eu amo programar, logo no começo dos meus estudos, na área da programação especificamente, eu rapidamente me identifiquei e gostei.
