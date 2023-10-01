@@ -16,4 +16,4 @@
  <img alt="MySQL" align="center" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
-### Eu amo programar, logo no começo dos meus estudos, na área da programação especificamente, eu rapidamente me identifiquei e gostei.
+### Sou um estudante com mais ou menos 1 ano de experiência em programação. Estou cursando Análise e Desenvolvimento de Sistemas. Estou interessado nas áreas de tecnologias como Web Developer, SEO e UX/UI.
