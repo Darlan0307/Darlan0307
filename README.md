@@ -4,9 +4,20 @@
 <p align="center">Eu amo resolver desafios de tecnologia. <br><br> Tanto na área do front-end como também em banco de dados, eu sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje eu sou um <strong>programador nivel médio</strong> focado em desenvolvimento web.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
+
+![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlan0307&show_icons=true&theme=dracula&count_private=true)
+ 
+</div>
+
+
+
+<div  align="center" style="margin-bottom:100px">
+ 
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Darlan0307&theme=radical&mode=weekly" />
 
  </div>
+
+
  
  &nbsp;
  &nbsp;
