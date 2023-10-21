@@ -1,4 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
+<img align="right" height="600px" src="https://raw.githubusercontent.com/gist/Darlan0307/e6ac7a96bf604f8b2f8f194a6bf3316f/raw/683e04575786c59fdcb8b5ef4a6612b4de8436a1/githubcard.svg" />
+
 <h1 align="center">Olá eu sou Darlan Martins</h1>
 
 <p align="center">Eu amo resolver desafios de tecnologia. <br><br> Tanto na área do front-end como também em banco de dados, eu sou <strong>apaixonado por descobrir coisas novas</strong> e usá-las para criar soluções de alta qualidade. Hoje eu sou um <strong>programador nivel médio</strong> focado em desenvolvimento web.</p>&nbsp;
