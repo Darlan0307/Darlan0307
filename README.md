@@ -10,6 +10,14 @@
  
 </div> -->
 
+ <!-- <div>
+ <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Darlan0307&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+</div> -->
+
 
 
 <div  align="center" style="margin-bottom:100px">
