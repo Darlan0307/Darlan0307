@@ -2,8 +2,6 @@
 
 <h1 align="center">Olá eu sou Darlan Martins</h1>
 
-<p align="center">Possuo experiência tanto em desenvolvimento <strong>frontend</strong> quanto <strong>backend</strong>, destacando-me na resolução de desafios que abrangem desde a criação de designs responsivos até a implementação de APIs para interação com bancos de dados e autenticação de usuários.</p>&nbsp;
-
  <!-- <div  align="center" style="margin-bottom:100px">
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlan0307&show_icons=true&theme=dracula&count_private=true)
@@ -33,7 +31,7 @@
 
 
 
-## My Skills
+## Minhas Habilidades
 
 #### Principais:
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -50,6 +48,7 @@
 
 
 #### Estudando no momento:
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
