@@ -2,7 +2,10 @@
 
 ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
+
 <h1 align="center">Olá eu sou Darlan Martins</h1>
+
+
 
  <!-- <div  align="center" style="margin-bottom:100px">
 
@@ -17,7 +20,7 @@
         alt="Github Stats"
       />
 </div> -->
-
+ 
  <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=Darlan0307&theme=radical&title=Commits,MultiLanguage,Followers,Repositories&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
@@ -29,13 +32,14 @@
 <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Darlan0307&theme=radical&mode=weekly" />
 
  </div>
+  &nbsp;
+ &nbsp;
+ <div  align="center" style="margin-bottom:100px">
 
-
- 
+ [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darlan0307&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+ </div>
  &nbsp;
  &nbsp;
-
-
 
 ## Minhas Habilidades
 
