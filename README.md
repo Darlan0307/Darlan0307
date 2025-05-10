@@ -2,6 +2,8 @@
 
 <h1 align="center">Olá eu sou Darlan Martins</h1>
 
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+
  <!-- <div  align="center" style="margin-bottom:100px">
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=Darlan0307&show_icons=true&theme=dracula&count_private=true)
