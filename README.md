@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
 
-![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+![Status](./profile-3d-contrib/profile-night-green.svg)
 
 
 <h1 align="center">Olá eu sou Darlan Martins</h1>
@@ -35,9 +35,10 @@
   &nbsp;
  &nbsp;
  <div  align="center" style="margin-bottom:100px">
-
+ <!--
  [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Darlan0307&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
  </div>
+  -->
  &nbsp;
  &nbsp;
 
@@ -86,10 +87,11 @@
 
 </div>&nbsp;&nbsp;
  
-
+ <!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Darlan0307&bg_color=000000" alt="GitHub Activity Graph" />
 </div>
+-->
   
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
